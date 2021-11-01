@@ -1,0 +1,16 @@
+:root {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #272727;
+    color: #3fe769;
+    padding: 40px;
+    text-align: center;
+    justify-content: center;
+}
+
+.container {
+    padding: 10px;
+    background-color: #1d1d1d;
+    border-radius: 15px;
+    width: 400px;
+    margin: auto;
+}
